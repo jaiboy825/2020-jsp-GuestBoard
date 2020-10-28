@@ -1,5 +1,7 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
-<%@ include file = "header.jsp" %>
-<jsp:include page="footer.jsp"/>
+<hr>
+2020학년도 양영디지털고등학교 2학년 1반 21번 전제
 
+</body>
+</html>
